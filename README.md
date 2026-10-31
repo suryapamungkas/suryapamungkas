@@ -125,17 +125,3 @@ I am a **Full Stack Developer** and **AI Engineer Enthusiast** with a strong pas
 <p align="center">
   <img src="https://raw.githubusercontent.com/suryapamungkas/suryapamungkas/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph" width="100%" />
 </p>
-
----
-
-### 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryapamungkas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryapamungkas&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</p>
-
-<p align="center">
-  <i>"Transforming ideas into resilient software and intelligent digital experiences."</i>
-</p>
